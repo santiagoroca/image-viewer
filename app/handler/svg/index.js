@@ -1,0 +1,9 @@
+class SVGHandler {
+
+	constructor () {
+
+		
+		
+	}
+
+}
